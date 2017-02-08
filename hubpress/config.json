@@ -4,7 +4,13 @@
     "repositoryName": "hubpress.io",
     "branch": "master"
   },
+  "site": {
+    "title": "An-Duc Loc",
+    "description": "zero to hero",
+    "postsPerPage": "4"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
